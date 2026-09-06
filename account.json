@@ -39,6 +39,14 @@
       "display_name": "viyeraaa",
       "active": true,
       "created_at": "2026-09-06T09:27:41.814Z"
+    },
+    {
+      "username": "acalux",
+      "password": "acalux",
+      "role": "reseller",
+      "display_name": "acalux",
+      "active": true,
+      "created_at": "2026-09-06T12:07:46.658Z"
     }
   ]
 }
