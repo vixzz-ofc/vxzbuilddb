@@ -47,6 +47,14 @@
       "display_name": "acalux",
       "active": true,
       "created_at": "2026-09-06T12:07:46.658Z"
+    },
+    {
+      "username": "cael",
+      "password": "cael",
+      "role": "reseller",
+      "display_name": "caell",
+      "active": true,
+      "created_at": "2026-09-08T11:47:25.911Z"
     }
   ]
 }
