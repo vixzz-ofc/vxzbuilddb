@@ -55,6 +55,14 @@
       "display_name": "caell",
       "active": true,
       "created_at": "2026-09-08T11:47:25.911Z"
+    },
+    {
+      "username": "bomzz",
+      "password": "03",
+      "role": "reseller",
+      "display_name": "skibidi bomzz2",
+      "active": true,
+      "created_at": "2026-09-20T08:36:42.404Z"
     }
   ]
 }
