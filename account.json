@@ -63,6 +63,14 @@
       "display_name": "skibidi bomzz2",
       "active": true,
       "created_at": "2026-09-20T08:36:42.404Z"
+    },
+    {
+      "username": "shinracery",
+      "password": "shinracery",
+      "role": "reseller",
+      "display_name": "shin jancok",
+      "active": true,
+      "created_at": "2026-09-20T22:55:55.348Z"
     }
   ]
 }
