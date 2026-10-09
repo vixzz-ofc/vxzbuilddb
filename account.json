@@ -71,6 +71,14 @@
       "display_name": "shin jancok",
       "active": true,
       "created_at": "2026-09-20T22:55:55.348Z"
+    },
+    {
+      "username": "danzx",
+      "password": "18X",
+      "role": "reseller",
+      "display_name": "danzx",
+      "active": true,
+      "created_at": "2026-10-09T13:19:27.809Z"
     }
   ]
 }
