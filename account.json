@@ -9,14 +9,6 @@
       "created_at": "2025-01-01T00:00:00Z"
     },
     {
-      "username": "vixzz2",
-      "password": "vxz",
-      "role": "developer",
-      "display_name": "Buyer vixzz",
-      "active": true,
-      "created_at": "2026-08-29T05:32:51.905Z"
-    },
-    {
       "username": "test",
       "password": "1234",
       "role": "reseller",
